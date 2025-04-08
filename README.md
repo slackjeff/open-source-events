@@ -193,6 +193,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 <details open>
  <summary><h2> May :sparkles: </h2></summary>
 
+- [PGConf.BE](https://pgconf.be)
+  > Date: 6th May || Mode: In-person || Location: Haasrode (Leuven), Belgium.
+
 - [PostgreSQL Conference](https://www.postgresql.eu/events/pgconfde2025/news/pgconfde-2025-registration-is-open-158/)
   > Date: 8th - 9th May || Mode: In-person || Location: Berlin, Germany.
 
