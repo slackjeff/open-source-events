@@ -351,6 +351,9 @@ in Cleveland, Ohio.
 - [LatinR - Latinamerican Conference About the Use of R in R&D](https://latinr.org/en/)
   > Date: not announced yet || Mode: In-person || Location: not announced yet
 
+- [PyCon Thailand 2025](https://th.pycon.org/)
+  > Date: 17th - 18th October || Mode: In-person || Location: Microsoft Thailand and Avani Sukhumvit Bangkok Hotel Bangkok, Thailand
+
 </details>
 
 <details open>
