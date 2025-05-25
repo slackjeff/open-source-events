@@ -257,7 +257,7 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [OpenEdX](https://con.openedx.org/)
   > Date: 1st - 4th July|| Mode: In-person || Location: Télécom Paris, France.
 
-- [Debcon25](https://debconf25.debconf.org/)
+- [Debconf25](https://debconf25.debconf.org/)
   > Date: 14th - 20th July || Mode: In-person || Location: Brest, France.
 
 - [Open Sauce](https://opensauce.com/)
